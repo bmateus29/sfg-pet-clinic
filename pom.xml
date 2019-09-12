@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>bruno.springframework</groupId>
 	<artifactId>sft-pet-clinit</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>SFG Pet Clinic Project</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -41,6 +41,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:bmateus29/sfg-pet-clinic.git</developerConnection>
-  	</scm>
+  	  <tag>sft-pet-clinit-0.0.1</tag>
+  </scm>
 
 </project>
