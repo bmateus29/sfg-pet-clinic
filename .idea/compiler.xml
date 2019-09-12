@@ -14,6 +14,7 @@
       <module name="pet-clinic-data" target="1.8" />
       <module name="pet-clinic-web" target="1.8" />
       <module name="sfg-pet-clinit" target="1.8" />
+      <module name="sft-pet-clinit" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

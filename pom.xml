@@ -41,7 +41,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:bmateus29/sfg-pet-clinic.git</developerConnection>
-	  <tag>sft-pet-clinit-0.0.1</tag>
+	  	<tag>sft-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>

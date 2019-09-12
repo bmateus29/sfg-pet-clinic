@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/pet-clinic-data/pet-clinic-data.iml" filepath="$PROJECT_DIR$/pet-clinic-data/pet-clinic-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/pet-clinic-web/pet-clinic-web.iml" filepath="$PROJECT_DIR$/pet-clinic-web/pet-clinic-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sfg-pet-clinit.iml" filepath="$PROJECT_DIR$/.idea/sfg-pet-clinit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sft-pet-clinit.iml" filepath="$PROJECT_DIR$/sft-pet-clinit.iml" />
     </modules>
   </component>
 </project>
